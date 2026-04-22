@@ -43,7 +43,7 @@
     <MoveCompletedEndsForward>0</MoveCompletedEndsForward>
     <BaselineForEarnedValue>0</BaselineForEarnedValue>
     <AutoAddNewResourcesAndTasks>1</AutoAddNewResourcesAndTasks>
-    <CurrentDate>2026-04-22T10:59:00</CurrentDate>
+    <CurrentDate>2026-04-22T11:27:00</CurrentDate>
     <MicrosoftProjectServerURL>1</MicrosoftProjectServerURL>
     <Autolink>1</Autolink>
     <NewTaskStartDate>0</NewTaskStartDate>
@@ -329,7 +329,7 @@
             <UID>1</UID>
             <ID>1</ID>
             <Name>NOMBRE DEL SISTEMA</Name>
-            <Type>0</Type>
+            <Type>1</Type>
             <IsNull>0</IsNull>
             <CreateDate>2026-04-22T10:42:00</CreateDate>
             <WBS></WBS>
@@ -346,7 +346,7 @@
             <Recurring>0</Recurring>
             <OverAllocated>0</OverAllocated>
             <Estimated>1</Estimated>
-            <Milestone>0</Milestone>
+            <Milestone>1</Milestone>
             <Summary>1</Summary>
             <Critical>1</Critical>
             <IsSubproject>0</IsSubproject>
@@ -598,7 +598,7 @@
         <Task>
             <UID>7</UID>
             <ID>7</ID>
-            <Name>Definir el DER </Name>
+            <Name>Definir Diagrama de Entidad Relación</Name>
             <Type>0</Type>
             <IsNull>0</IsNull>
             <CreateDate>2026-04-22T10:42:00</CreateDate>
